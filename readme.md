@@ -29,7 +29,7 @@ This script is designed to convert `.dds` image files (used in **Kerbal Space Pr
 2. **Install the required Python libraries**:
    You can install the required libraries using `pip`:
    ```bash
-   pip install Pillow opencv-contrib-python
+   pip install pillow opencv-contrib-python
    ```
 
 ## Usage:
@@ -37,7 +37,7 @@ This script is designed to convert `.dds` image files (used in **Kerbal Space Pr
 1. **Run the script**:
    Navigate to the directory where the script is located and run it using Python:
    ```bash
-   python dds_to_png_converter.py
+   python DDS-To-PNG.py
    ```
 
 2. **Input Directory**:
@@ -79,7 +79,7 @@ Using 8 threads.
 Conversion completed.
 Total images processed: 50
 Successfully converted: 50
-Time taken: 15.32 seconds
+Time taken: 1.23 seconds
 ```
 
 ## License:
